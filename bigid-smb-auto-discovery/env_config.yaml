@@ -1,0 +1,14 @@
+SMB Server:
+- host: hostname_or_ip
+- domain_name: domainname
+- username: smb_user
+- password: smb_password
+
+BigID Server:
+- bigid_url: https://bigidhost.com
+- bigid_auth_token: 
+- ds_prefix: prefixname
+- ds_sample_folders: true
+- ds_sample_folder_percent_size: 5
+- ds_sample_file_content: true
+- ds_scanner_group: default

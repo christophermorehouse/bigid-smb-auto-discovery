@@ -1,0 +1,4 @@
+pysmb==1.2.9.1
+PyYAML==6.0
+Requests==2.31.0
+cx-Freeze==6.15.14
